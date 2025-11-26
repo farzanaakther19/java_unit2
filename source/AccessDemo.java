@@ -41,5 +41,3 @@
     }
  }
 
- 1. Public members are directly accessible across classes.
- 2. Private members are hidden from other classes and require getter-like
